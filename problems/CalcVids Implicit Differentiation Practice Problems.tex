@@ -1,0 +1,93 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+
+\section*{Implicit Differentiation}
+
+\begin{enumerate}
+
+\item The figure below, which shows the line tangent to the graph of the circle $(x+1)^2 + (y-2)^2 = 9$ at the point $\left(1, \sqrt{5}+2\right)$. Which formula that gives the slope of the tangent line to the graph of this circle at any point $(x, y)$ on the circle?
+
+\begin{center}
+	\includegraphics[width=3in]{ImplicitDiff1.png}
+\end{center}
+
+\begin{enumerate}
+
+\item $\frac{dy}{dx}=-\frac{y}{x}$
+
+\item $\frac{dy}{dx}=\left(\frac{y}{x}\right)^2$
+
+\item $\frac{dy}{dx}=\frac{y-y_1}{x-x_1}$
+
+\item $\frac{dy}{dx}=\frac{y-2}{x-1}$
+
+\item $\frac{dy}{dx}=\frac{x+1}{2-y}$
+
+\end{enumerate}
+
+\pagebreak
+
+\item The figure below, which shows the line tangent to the graph of the circle $(x+1)^2 + (y-2)^2 = 9$ at the point $\left(1, \sqrt{5}+2\right)$. Which formula that gives the slope of the tangent line to the graph of this circle at any point $(x, y)$ on the circle?
+
+\begin{center}
+	\includegraphics[width=4in]{ImplicitDiff1.png}
+\end{center}
+
+\begin{enumerate}
+
+\item $m\approx -0.89$
+
+\item $m\approx 1.13$
+
+\item $m\approx -2.25$
+
+\item $m\approx 1.00$
+
+\item $m\approx -1.13$
+
+\end{enumerate}
+
+\item Find $\dsp \frac{dy}{dx}$ for the curve $x + \sin(y) = xy$. (You must solve for $\dsp \frac{dy}{dx}$ in terms of $x$ and $y$).
+
+\item Find $\frac{dt}{dz}$ for the curve $\ln(z+2t)-\cos(t)\sin(z)=12zt^3$
+
+\item Find the slope of the line tangent to the curve $xe^{y}=3x+3y$ at the point $(3,5)$
+
+\end{enumerate}
+
+
+
+\end{document}

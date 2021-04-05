@@ -1,0 +1,41 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "About"
+  side: left
+  dropdown:
+  - title: "The Project"
+    url: "/info/"
+  - title: "The Team"
+    url: "/team/"
+
+- title: "Research"
+  side: left
+  dropdown:
+  - title: "Research Methods"
+    url: "/sample/"
+  - title: "Publications"
+    url: "/publications/"
+
+- title: "Resources"
+  side: left
+  dropdown:
+  - title: "Videos"
+    url: "/videos/"
+  - title: "LMS Modules"
+    url: "/lms/"
+  - title: "Problems"
+    url: "/problems/"
+  - title: "Powerpoint Slides"
+    url: "/slides/"
+  - title: "Intellectual Need-Provoking Tasks"
+    url: "/intasks/"
+  - title: "Information and Resources for Instructors"
+    url: "/instructorinfo/"
+  - title: "Ximera Pages"
+    url: "/sample/"
+    
+- title: "Search"
+  url: "/search/"
+  side: right

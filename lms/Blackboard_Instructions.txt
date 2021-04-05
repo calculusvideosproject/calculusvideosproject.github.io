@@ -1,0 +1,30 @@
+Instructions for Importing the Calcvids Materials into Blackboard
+
+1. Download the zip file from the CalcVids website but do NOT unzip the file. 
+
+2. Go to your course website on Blackboard.
+
+3. Click on "Packages and Utilities" under "Course Management".
+
+4. Then click on "Import Package \ View Logs".
+
+5. A new page will appear. Click on "Import Package" on this page. 
+
+6. This takes you to the Import Package page. Click on "Browse My Computer", then navigate to highlight the zip file you downloaded. After the zip file has been highlighted, click on "Open". 
+
+7. Under "Select Course Materials" (you may need to scroll down), click on "Select All" (or you can merely select "Content Areas" and "Tests, Surveys, and Pools").
+
+8. Then click on "Submit" in the bottom right corner. The submission process may take several minutes. 
+
+Additional information:
+Blackboard typically sends a notification email once the package has been uploaded.
+
+After importing, you may need to hit your web browser refresh button to reload the site and see the changes.
+
+After importing, You should see a "CalcVids.org Materials" link appear on the left with your main course content links. The link will initially be hidden from students. 
+
+In your course "Grade Center" all of the Blackboard tests appear as Task, PreVideo, and PostVideo Questions associated with each learning module. 
+
+By default, all the learning modules (except modules associated with differential equations) are set to visible. Feel free to use Blackboard commands to show and hide modules, items, and tests as needed. You will likely need to reorganize the order of the content in the CalcVids.org Materials folder to best align with your textbook. We recommend using the flowchart (https://calcvids.org/instructorinfo/Calcvids_Flowchart.pdf/) to make sure you keep core videos in order. 
+
+Feel free to edit tests as needed. By default, test questions are set to three attempts with grades appearing in the Grade Center for Task, PreVideo, and PostVideo Questions but only PostVideo Questions are set to count toward a student's overall grade.

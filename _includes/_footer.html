@@ -1,0 +1,52 @@
+    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+    <!--Copyright-->
+    <div class="footer-copyright py-3 text-center">
+        © 2018 Copyright: Calculus Video Project
+    </div>
+    <!--/.Copyright-->
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer" class="container text-center text-md-left">
+      	<div class="row">
+       		<div class="small-8 medium-7 large-6 columns">
+				<a href="https://www.nsf.gov" style="text-decoration: none"><img style="padding: 0 15px" width="100" src="/images/NSFLogo.png"></a>
+				<a href="https://www.ithaca.edu" style="text-decoration: none"><img style="padding: 0 15px" width="100" src="/images/ICShield.png"></a>
+				<a href="https://uca.edu" style="text-decoration: none"><img style="padding: 0 15px" width="75" src="/images/UCAShield.png"></a>
+				<a href="https://go.okstate.edu/" style="text-decoration: none"><img style="padding: 0 15px" width="125" src="/images/OSUShield.png"></a>
+				<p>This project is supported by the National Science Foundation through Awards DUE #1712312, #1711837, and #1710377. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+			</div><!-- /#column1 -->
+	    	<div class="small-4 medium-5 large-6 columns">
+          		<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="text-decoration: none"><img style="padding: 0 15px" width="200" src="/images/creative_commons.png"></a>
+				<p>www.Calcvids.org products are licensed under <br>
+	    		CC BY-NC-SA 4.0</p>
+	        </div><!-- /#column2 -->
+		</div><!-- /#row -->
+     </div><!-- /#footer -->
+
+
+
+      <div id="subfooter">
+		<nav class="row">
+          <section id="subfooter-left" class="small-10 medium-10 large-10 columns credits">
+            {{ site.credits }}
+          </section>
+
+       	<section id="subfooter-left" class="small-1 medium-1 large-1 columns">
+            <ul class="inline-list social-icons">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+            </ul>
+          </section>
+
+          <section id="subfooter-right" class="small-1 medium-1 large-1 columns">
+			<a href="/sitemap.xml">sitemap</a>
+          </section>
+		</nav>
+      </div><!-- /#subfooter -->
+    </footer>

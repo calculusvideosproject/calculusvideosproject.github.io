@@ -1,0 +1,107 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+
+
+\section*{Approximating Instantaneous Rates of Change}
+
+\begin{enumerate}
+
+\item A toy car begins moving from rest. Let $s(t)$ represent the distance a toy car has moved away from its initial position (in feet) and let $t$ represent the number of seconds elapsed since the toy car started moving. Values of $s(t)$ for various values of $t$ are provided in the table below.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}\hline
+
+$t$ &2.6 &2.7 &2.8 & 2.9&3 &3.1 &3.2 &3.3 &3.4 & 3.5&3.6\\ \hline
+ $s(t)$ &36 &38 &41 & 45 &47 & 50 &52 & 55&56 & 59& 61\\ \hline
+
+\end{tabular}
+\end{center}
+
+\begin{enumerate}
+
+\item Which is the best approximation of the speed of the toy car $3$ seconds after it started moving and why?
+
+\begin{enumerate}
+
+\item $\frac{50-45}{.2}=25$ ft/sec 
+
+\item  $\frac{50-47}{.1}=30$ ft/sec
+
+\item $\frac{3.1-2.9}{5}=.04$ ft/sec
+
+\item $\frac{3.1-3}{3}\approx .03333$ ft/sec
+
+\end{enumerate} 
+
+\item Find the best possible overestimate and underestimate of the speed of the toy car $2.8$ seconds after it started moving. What is the greatest possible error between your speed estimates and the true speed of the car at $2.8$ seconds after it started moving?
+
+\item Are either of $\frac{59-56}{.1}=30$ ft/sec or $\frac{61-59}{.1}=20$ ft /sec a better estimate for the speed of the toy car at $3.5$ seconds than the other? Explain why or why not. 
+
+\item  Approximate the acceleration of the toy car $2.8$ seconds after it started moving.
+
+\end{enumerate}
+
+\vspace{24pt}
+
+\item A waiter is pouring water into a cylindrical cup of radius $2$ inches at a decreasing pour rate. When there are $6\pi in^3$ of water in the cup, the height of the water is $1.5$ inches. When there are $16\pi in^3$ of water in the cup, the height of the water is $4$ inches. 
+
+\begin{enumerate}
+
+\item Is it possible to determine the instantaneous rate of change between the amount of water in the cup and the height of the water in the cup when there are $10.5378\pi in^3$ of water in the cup with this information? Why or why not?
+
+\item If you feel more information is needed, use the formula for the volume of a cylinder to generate more average rate of change estimates. 
+
+
+\end{enumerate}
+
+\pagebreak
+
+\item Let $\Delta t$ be a change in the time away from $t=3$ seconds (either forward or backward in time). A ball is thrown into the air with an initial (vertical) velocity of $12$m/s from an initial height of $2$m. A simplified formula to determine the height of the ball in the air (without air resistance) is $h(t)=-9.8t^2+12t+2$ meters. Calculate the average vertical speed of the ball between $t=3+\Delta t$ ($\Delta t$ can be negative) and $t=	3$ seconds. 
+
+
+\begin{enumerate}
+
+\item Simplify the average speed into two terms, one term depending on $\Delta t$ and one term not depending on $\Delta t$. 
+
+\item Determine the range of possible speeds for the ball at $t=3$ seconds for small values of $\Delta t$. If you keep choosing smaller values of $\Delta t$, what happens to the range of possible values for the ball's speed at $t=3$ seconds?
+
+\end{enumerate}
+
+\end{enumerate}
+
+
+
+\end{document}

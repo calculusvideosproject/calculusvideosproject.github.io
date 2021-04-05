@@ -1,0 +1,52 @@
+---
+title: "Calculus Videos Project"
+author: ""
+date: ""
+output:
+  html_document:
+    css: ./vid.css
+---
+
+Please select the video set you would like to watch.
+
+**Make sure to log in once you have clicked on the video set.**
+
+<!-- note: do not edit this html file directly -->
+
+1. [Name/instructor identificaion (only for google accounts)](https://ximera.osu.edu/calcvids2019/google/login/google/page)
+1. [Ximera introduction](https://ximera.osu.edu/calcvids2019/intro/intro)
+1. [Constant Rate of Change](./croc)
+1. [Graphing Constant Rate of Change](./graphingcroc)
+1. [Varying Rate of Change](./incroc)
+1. [Graphing Varying Rates of Change](./graphingincroc)
+1. [Average Rate of Change](./aroc)
+1. [Approximating Instantaneous Rates of Change](./approxiroc)
+1. [Continuity](./continuity)
+1. [Differentiability and Local Linearity](./locallin)
+1. [Limit at a Point](./limitpt)
+1. Limit Laws - in preparation
+1. Limit at Infinity - in preparation
+1. [Limit Definition of Derivative](./limitdef)
+1. [Using the Limit Definition of Derivative](./usinglimit)
+1. [Interpreting Derivatives](./interpretderiv)
+1. [Secant Lines and Tangent Lines](./secanttangent)
+1. [Graphing Derivatives](./graphingderiv)
+1. [Basic Derivative Rules](./basicderivrules)
+1. [Product Rule](./product)
+1. [Quotient Rule](./quotient)
+1. [Chain Rule](./chain)
+1. [L'Hopital's Rule](./lhopital)
+1. [Mean Value Theorem](./mvt)
+1. [Related Rates](./relrates)
+1. [Implicit Differentiation](./implicit)
+1. [Optimization Intro](./optintro)
+1. [Optimization Modeling](./optmodel2)
+1. [Riemann Sums Introduction](./rsintro)
+1. [Riemann Sums Notation](./rsnotation)
+1. [Definite Integrals](./defint2)
+1. [Antiderivatives](./antideriv)
+1. [FTOC 1 - Integrals are Antiderivatives](./ftoc1)
+1. [FTOC 2 - variable in bounds](./ftoc2)
+1. [U-Substitution](./usub)
+1. [End of semester survey](https://ximera.osu.edu/calcvids2019/survey/survey)
+1. [Second account linking page](https://ximera.osu.edu/calcvids2019/secondaccount/second_account/secondaccount/secondaccount)

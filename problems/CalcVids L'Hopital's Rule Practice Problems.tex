@@ -1,0 +1,61 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+\section*{l'Hopital's Rule}
+
+\begin{enumerate}
+
+\item $\dsp \lim_{x \to -2} \frac{x^2+8x+12}{x+2} =$
+
+	\item $\dsp \lim_{x \to \frac{\pi}{2}} \frac{\cos(x)+1}{x} =$
+
+	\item $\dsp \lim_{t \to \infty} \frac{1 + 4t^2}{5t + 3t^2} =$
+
+	\item $\dsp \lim_{\theta \to 0} \frac{\theta}{\tan(\theta)} =$
+	
+	\item $\dsp \lim_{x \to 0} \frac{\sin(x)+x\cos(x)}{x+\sin(x)}=$
+
+\item $\dsp \lim_{x \to 1} \frac{e^x-e}{\ln(x)}=$
+
+\item $\dsp \lim_{x \to 3} \frac{\sqrt{x+1}-2}{x^2-5x+7}=$
+
+\item $\dsp \lim_{x \to \infty} (x^2+3x+1)e^{-2x}=$
+
+\item $\lim_{x\rightarrow 0}x\ln(x)$
+
+\end{enumerate}
+
+
+\end{document}

@@ -1,0 +1,60 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+
+\section*{Basic Derivative Rules}
+
+\begin{enumerate}
+
+\item Give two explanations for the identity $\frac{d}{d\theta}(\sin(\theta))=-\frac{d}{d\theta}(\sin(\theta+\pi))$. 
+
+\item A cube grows in volume as the length of its edges grow (expanding from a single corner). How quickly does the volume of an $8$ $in^3$ cube grow with respect to its growing side lengths? After you determine the growth rate, make a geometric argument supporting your claim. 
+
+\item Consider a right triangle has base length $x$ and an area of $2$. Suppose that the base length begins to change but the area remains fixed at $2$. If the base length is $5$ and begins to decrease, what is the rate of change of the height?
+
+\item In chemistry, pH is a scale used to measure the acidity of a solution. The pH of a solution is defined by the equation
+\[
+\text{pH} = -\log_{10}(x)
+\] 
+where $x$ represents the concentration of hydrogen ions. Compute the rate of change of pH with respect to hydrogen ion concentration when the pH is 2. (\textit{Note that} pH \textit{is a single quantity, not the product of} p \textit{and} H.)
+
+\item Without using the chain rule, why is the derivative of $f(x)=\ln(x^5)=\frac{5}{x}$
+
+
+\end{enumerate}
+
+
+
+\end{document}

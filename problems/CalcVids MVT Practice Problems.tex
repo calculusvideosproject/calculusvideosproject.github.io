@@ -1,0 +1,60 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+\section*{Mean Value Theorem}
+
+\begin{enumerate}
+
+\item Consider the following graph of $f(x) = x\sin(x)$ on the domain $[-3, 3]$. 
+\begin{center}
+\includegraphics[width=2.25in]{MVT1.png}
+\end{center}
+\begin{enumerate}
+\item How many values of $c$ in $(-3, 3)$ appear to satisfy the Mean Value Theorem equation \newline $\dsp f^\prime(c) = \frac{f(b)-f(a)}{b-a}$ where $a = -3$ and $b = 3$.
+
+\item How many values of $c$ in $(-3, 3)$ appear to satisfy the Mean Value Theorem equation \newline $\dsp f^\prime(c) = \frac{f(b)-f(a)}{b-a}$ where $a = -4$ and $b = 2$.
+
+\item How many values of $c$ in $(-3, 3)$ appear to satisfy the Mean Value Theorem equation \newline $\dsp f^\prime(c) = \frac{f(b)-f(a)}{b-a}$ where $a = -2$ and $b = 3$.
+\end{enumerate}
+
+\item  Suppose that $f$ is continuous and differentiable on the interval $[3, \; 8]$. Also suppose that $f(3) = 2$ and $f^\prime(x) \le 2$ for all $x$ in the interval $[3, \; 8]$. What is the largest possible value for $f(8)$? Justify your response.
+
+\item In an ideal situation, the energy required to move an object with a uniformly applied force $F$ across a distance $D$ is $E=F\cdot D$. From rest, we know that a total of $70$ Joules (the unit for energy) were expended to move the box a total of $5$ ft. How much force must have been exerted at least momentarily while the box was being pushed?
+
+\item  Suppose that $g$ is continuous and differentiable on the interval $[2, \; 7]$. Also suppose that $f(2) = 10$ and $f^\prime(x) \geq -2$ for all $x$ in the interval $[2, \; 7]$. What is the smallest possible value for $g(7)$? Justify your response.
+
+\end{enumerate}
+
+\end{document}

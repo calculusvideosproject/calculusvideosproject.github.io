@@ -1,0 +1,63 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+
+
+\section*{Limit Laws}
+
+\begin{enumerate}
+
+\item  If $\lim_{x\rightarrow 5}f(x)=5$ and $\dsp \lim_{x \to 5} \left(2f(x)-g(x)\right) = 6$, find $\lim_{x\rightarrow 5}g(x)$.\vspace{0.2cm}
+\begin{enumerate}
+\item[a.] $g(5) = 4$ \vspace{0.2cm}
+\item[b.] $g(5) = 5$ \vspace{0.2cm}
+\item[c.] $g(5) = 16$ \vspace{0.2cm}
+\item[d.] $g(5) = -1$ \vspace{0.2cm}
+\item[e.] $g(5) = 6$
+\end{enumerate}
+
+\item Find $\lim_{\theta\rightarrow 0}\sin(\theta)\theta^3$
+
+\item Find $\lim_{y\rightarrow 3}\frac{y^3e^y}{\tan(y)}$
+
+\item If $\lim_{\theta\rightarrow 0}\frac{\sin(\theta)}{\theta}=1$, find $\lim_{\theta\rightarrow 0}\frac{\sin(3\theta)}{\theta}$
+
+\item If $3\lim_{y\rightarrow 4}f(x)+1=8$, find $\lim_{y\rightarrow 4}f(x)$
+
+\end{enumerate}
+
+
+
+\end{document}

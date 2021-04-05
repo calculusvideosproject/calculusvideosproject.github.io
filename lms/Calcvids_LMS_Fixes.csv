@@ -1,0 +1,117 @@
+"Topic (e.g., ""Constant Rate of Change"")",Pre/Post/IN Task/Video,Problem/Video #,Description of issue,Suggested change
+Basic Derivative Rules,Pre,2,Multiplication signs would be nice for part a and part d,"part a) ln(7)*7^x where the ""*"" is actually a dot 
+part d) replace the ""*"" with a dot"
+Basic Derivative Rules,Pre,2,Part c does not represent a common mistake,"should be ""x7^(x-1)"""
+Basic Derivative Rules,Pre,2,Option copy and paste error? 6x^2+7 should not appear as an option - or at least I do not see how it related. ,Remove 6x^2+7 as an option; AW Note: Changing this to 7x^6 for power rule error
+Basic Derivative Rules,Pre,3,,7 log_6 x would be an interesting 5th option
+Basic Derivative Rules,Pre,4,Our video uses theta for angle measure.,Replace x with theta.
+Chain Rule,Post,2,Exponent not appearing correctly in problem statement,
+Chain Rule,Post,All,Same issue as with product rule and quotient rule post video answers. Student will consistently be marked incorrect for correct answers.,Change the PostVideo questions to multiple choice. 
+Chain Rule,Task,,"S should not be a function of time but of radius length
+Plus units for radius should be provided",S(r) is the volume of displaced sediment for a ripple of radius r feet
+Chain Rule,Task,,Answer marked incorrectly,I got 10
+Constant Rate of Change,Post,2,"only the varialbe x is defined; also, answer options are randomized (in Sakai)",Define the variable y; de-randomize answer options
+Continuity,Task,,"Missing the word ""discontinuous.""","Add the word ""discontinuous""."
+Continuity,Task,,No reference to x until the last option.,"I suggest re-wording to, ""For what values of x ...""."
+Definite Integrals,Pre,1,Table is too small to read,Increase size of table manually
+Definite Integrals,Pre,1,"Correct answers should be 16 or 22 meters, but 18 is listed as correct","Change correct answer to ""none of the above"""
+Definite Integrals,Pre,2,"I think the correct answer is where ∆t=2, but ∆t=1 is listed as correct",Change correct answer to C from D
+Definite Integrals,Pre and Post,question involving graph of R(t),"The answer choice of ""none of the above"" is silly given that the question is which value is greatest.","Remove ""none of the above"""
+Definite Integrals,Pre and Post,question involving graph of R(t),difficult notation in the Riemann sum choices,"Replace symbolic answers with verbal like ""Left Riemann sum with 3 partitions for the interval $$ 2 \le t \le 8$$"
+FTOC1,Post,2,"The question uses minutes but the answers use hours. Also, in Bb there is a blank answer choice.",Change to consistent units.
+FTOC2,Post,4,"The graphs shows a domain of [-2,3], but the description says [-1,4]",Change the question prompt.
+FTOC2,Pre,3,"I think the correct answer is ""Decreasing"" but ""Increasing is labeled as correct","Change from ""Increasing"" to ""Decreasing"""
+Graphing Derivatives,Post,1,Incorrect answer marked,"Change the interval to [-7,-5]"
+Graphing Derivatives,Post,2,Incorrect answer marked,"Change the interval to [-3,-2]"
+Graphing Derivatives,Post,3,"Oppertunity to include negative values for the function's output to check a common mistake.
+Using 1 as the endpoint also make the answer a bit more obvious","Change the interval to [-2,1]"
+Graphing Derivatives,Post,7,Missing a bracket and can change interval to make answer a bit more obvious,"Change the interval to [1,2]"
+Graphing Derivatives,Post,11-Oct,Missing Graphs! ,Add a graph
+Graphing Derivatives,Post,All,"Questions refer to a function ""g"" but the graphs indicate that the function is ""f.""","Change the function name to ""f"""
+Graphing Derivatives,Post,All but ...,Too long for me to list at the moment.,
+Graphing Derivatives,Pre,1,Incorrect answer marked,Mark More than one of the above
+Graphing Derivatives,Pre,2,Incorrect answer marked,Mark <0
+Graphing Derivatives,Pre,3,Incorrect answer marked,"Change the interval to [0,1] and change answer to <0"
+Graphing Derivatives,Pre,4,Incorrect answer marked,"Change the interval to [3,5]"
+Graphing Derivatives,Pre,5,"Confusing Graph for later problem - suggested changes would affect this problem.
+Read all related problems to understand overall suggested changes ","Change the interval to [-8,-6] "
+Graphing Derivatives,Pre,6,Confusing Graph affecting multiple problems,"Change the interval to [-6,-4]
+Mark answer as decreasing"
+Graphing Derivatives,Pre,9,Incorrect answer marked,Mark 2
+Graphing Derivatives,Pre,8-Jul,Stay the same with the suggested changes to 5 and 6.,
+Graphing Derivatives,Pre,11-Oct,"The point (8,g(8)) is not depicted on the graph",Replace 8 with 3.
+Graphing Derivatives,Pre,All,Consider having a cleaner graph,Have a graph that can be more easily read.
+Graphing Derivatives,Task,,Incorrect answer marked,Mark Graph 1 as correct.
+Graphing Varying Rates of Change,Post,2,The question indicates that the height measurement is between the top of the water and the top of the bottle,"The answer needs to be a decreasing, concave up graph."
+Implicit,Post,2,"If you interpret the question as dy instead of dy/dx, no answers are correct",Adjust!
+Implicit,Post,3,Not sure why decimal forms suddenly appeared.,"Write the two options using decimal forms as fractions. 
+The correct answer is -4/25"
+Implicit,Pre,1,Incorrect solution marked,Mark -3/4
+Implicit,Pre/Post,All,"The Post have the option ""Another answer not listed above"" but the Pre does not have this option. There are plenty of options within the Post and I'm concerned about test burn out from the students.","Remove ""Another answer not listed above"" from all PostVideo questions. Maybe consider removing another option as well. "
+Implicit,Task,,The point is given in decimal form but the answers are given as fractions.,"Change the question to, ""What is the slope of the tangent line to the curve at the point (0, 1.2)? Report your answer correct to three decimal places.""
+Then change answers to decimal form correct to three decimal places."
+Implicit,Task,,Students are really going to struggle and I would not want a student spending considerable time on this,"Add ""I'm not sure how to start"" as the last option."
+Interpreting the Derivative,Post,1,Wording is not precise.,"Change the 4th option to ""As volume varies by a very small amount from 10 cubic meters, the depth of the water increases by approximately 2 times as much as the change in volume.""
+Change the 5th option to ""The instantaneous rate of change of the depth's value with respect to volume when the volume is 10."""
+Interpreting the Derivative,Pre,1,Wording is not precise,"Change the 4th option to ""As time increases by a very small amount from 3 years, the card's value increases by approximately 5 times as much as the change in time."" Change 5th option to ""The instantaneous rate of change of the card's value with respect to time is 3."" "
+Interpreting the Derivative,Pre,1,Incorrect answer marked,Mark the 4th option as correct
+Interpreting the Derivative,Task,,Wording is not precise.,"Change 4th option to ""As time increases by a very small amount from 5 hours, the amount of fuel consumed by Courtney's car increases by approximately 2.5 gallons over the next hour.""
+Change 5th option to ""The instantaneous rate of change of the amount of fuel consumed with respect to time is 5."
+Introduction to Optimization,Post,6,"Some books use ""absolute"" instead of global","Change to ""global minimum (also called absolute minimum) of f(x)"""
+Introduction to Optimization,Post,All ,"""the derivative"" is no longer in bold face",Put this in bold face
+Introduction to Optimization,Pre,6,"Some books use ""absolute"" instead of global","Change to ""global maximum (also called absolute maximum) of f(x)"""
+L'Hopital's Rule,Post,2,Solution marked incorrectly,I got 2pi
+L'Hopital's Rule,Pre,3,Question reads incorrectly,"Should be ""equations"" not ""questions"""
+L'Hopital's Rule,Pre/Post,3,All other problems have DNE (not including an infinite limit) as an option,add DNE (not including an infinite limit) as an option
+MVT,Pre,1,Incorrect solution marked,"Should be Graphs III), IV), and V)
+On Blackboard this can be changed to a select all instead of a multiple choice."
+MVT,Pre/Post,2,"Question reads inaccurately. Missing an ""f""","""... if any, is f continuous over..."""
+MVT,Pre/Post,All,The graphs are a bit big in Blackboard. This would cause students with small screens to have difficulty managing these problems.,Reduce size of graphs by at least another 10 to 20%. 
+MVT,Pre/Post/task,several,The difference quotient is incorrect; the terms in the numerator should be reversed.,
+Optimization Modeling,Post,1,Correct Answer Does Not Appear - Likely due to incorrect copy and past. Parimeter needs to change to 30 in.,"Change parimeter to 30 in.
+And mark the 5th option as correct."
+Optimization Modeling,Post,2,Correct Answer Does Not Appear,Add 15 ft x7.5 ft
+Optimization Modeling,Pre,2,Image of storage area is missing,
+Optimization Modeling,Pre,2,Missing common mistake if students do not account for the inner walls,20 x 20 should be an option
+Optimization Modeling,Pre,3,Incorrect Solution Marked with Incorrect Units,Mark 5.59 ft^3
+Optimization Modeling,Pre,3,2.239 is not the correct solution,Change to 5.59
+Optimization Modeling,Pre,3,"units on 5.59 should be ft^3, not ft^2",
+Optimization Modeling,Pre/Post,2,Style of answer options do not match. Pre simplifies a bit.,Change to 30
+Porduct Rule,Post,4,"The answer that is marked correct may have a duplicate ""x^-5""","Remove an extra ""x^-5"" if one is there."
+Product Rule,Post,3,Common is in the incorrect place,"Change to ""4^x x^4,"""
+Product Rule,Post,1 and 2,The wrong answer is listed as correct,
+Product Rule,Pre,4,"No correct answer (coefficient ""3"" missing)","Add the coefficient ""3"" to the first term"
+Quotient Rule,Post,3,Only accept one way of writing the answer,
+Quotient Rule,Pre,2,The wrong answer is listed as correct,option a is correct
+Quotient Rule,Pre,4,"For the correct answer, a 2 is factored out of the numerator but an x is not. ","Change the correct answer to ""(1-2lnx)/(2x^3)""
+OR
+Do not simplify to begin with"
+Related Rates,Post,1,"The problem statement never mentions how fast the leg is being pulled. This is extraneous information but it does appear in the image. Since it appears in the image, I would have it in the statement.","Begin with ""A rectangle has a constant height of 6 cm while the base is growing at a constant rate of 3 cm/sec as shown below...""
+"
+Related Rates,Post,1,"In addition, I would not label the varying side with a value (8 cm), but instead label it with variable (b cm). Even though the arrow is a part of the diagram, initially labeling with a numerical value can obfuscate the variation. In addition, textbooks I have used in the past (and myself), indicate labeling varying quantities with a variable. Note: This is done on problem 3.","Remove ""8 cm"" from the image and replace with ""b cm"""
+Related Rates,Post,2,"Incorrect solution marked since the directions use the word ""falling"" which would account for any negative appearing in the answer. ","Change ""-25"" to ""50"""
+Related Rates,Post,3,No correct answer is given.,"Options should mirror Problem 3 options from the pre-video question options.
+Correct answer is ""6pi*r square inches per second"""
+Related Rates,Pre,1,"The problem statement never mentions how fast the leg is being pulled. This is extraneous information but it does appear in the image. Since it appears in the image, I would have it in the statement.","Begin with ""A right triangle has one leg of constant length 7cm while the other leg is growing at a constant rate of 2 cm/sec  as shown below...""
+"
+Related Rates,Pre,1,"In addition, I would not label the varying side with a value (10 cm), but instead label it with variable (b cm). Even though the arrow is a part of the diagram, initially labeling with a numerical value can obfuscate the variation. In addition, textbooks I have used in the past (and myself), indicate labeling varying quantities with a variable. Note: This is done on problem 3.","Remove ""10 cm"" from the image and replace with ""b cm"""
+Related Rates,Pre,2,Incorrect solution marked,"Mark 0.002 * 750 degrees per minute.
+I would also recommend using a dot for multiplication over an ""*"""
+Related Rates,Pre,3,Incorrect solution marked,Mark 6x in^2/sec
+Riemann Sums Introduction,Post,1,"5th answer refers to ""having run"" rather than ""having biked""","change ""run"" to ""biked"""
+Riemann Sums Introduction,Post,2,"3rd answer refers to ""home"" rather than ""bike shop""",
+Riemann Sums Introduction,Post,tank draining,"Answer 2 misspells ""drained""",
+Riemann Sums Introduction,Pre,1,"Incorrect spelling of ""away"" in the correct answer choice.","""awway"" should be ""away"""
+Riemann Sums Introduction,Pre,2,"Incorrect spelling of ""away"" in the last answer choice","""awawy"" should be ""away"""
+Riemann Sums Introduction,Pre,3,"No correct answer (it should be 3 minutes, not 2.5 or 6)","Change first answer to ""3 minutes"" (from 2.5)"
+Riemann Sums Notation,Post,1,"The question asks for LHS, but the correct answer is for the RHS.",Either change LHS to RHS or change the answer.
+Riemann Sums Notation,Post,2,none of the above is included twice.,remove one (or both?)
+Riemann Sums Notation,post,3,"The answer choice in Bb are not labeled with a, b, c. etc. This makes it hard to answer things like ""both a and b"".","There is an option to include answer labels within Bb, but you have to select that option."
+Riemann Sums Notation,post,3,"The answer choice ""At least one of a., b. and c. is correct IF you remove the repeating 1/2"" does not make sense for this problem.","Changed to ""repeating 3"""
+Riemann Sums Notation,Pre,1,"In Bb the answers do not have (a) (b) etc labels, so you have to infer what is meant by the both a and b answer choices.","There is an option to include answer labels within Bb, but you have to select that option."
+Riemann Sums Notation,Pre,3,"""IF you remove the repeating 1/2"" is an odd thing to reference since there is no 1/2 involved in the problem.",Remove this answer option
+Riemann Sums Notation,Pre,3,This notation specifies a RHS(??) so only 30 is a correct answer,"Correct answer is B, not F"
+Riemann Sums Notation,Task,1,The table is too small to read.,
+Slopes of Secants and Tangents,Post,1,There isn't a question that is posed...,"Change to ""What does it mean to say that ""the slope of this tangent line is 0.712?"""
+U-Sub,Pre,1,Correct answer should have 1/3,Change correct answer from A to B
+U-Sub,Pre,2,"Correct answer should be ""This integral cannot be evaluated using U-substitution""",

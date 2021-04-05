@@ -1,0 +1,131 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+\section*{Riemann Sum Notation}
+\begin{enumerate}
+
+\item Explain why $\sum_{k=1}^N f\left(3+\frac{(k-1)}{N}\right)\cdot\frac{1}{N}$ is an under approximation of the area bounded by the graph of $f$ and the $x$-axis when $f$ is increasing on the interval $[3, 4]$.
+
+\item The function $y=g(t)$ represents the relationship between the rate of change in the value of investment stocks (in dollars per month) and the number of months $t$ elapsed since the stocks were purchased. Which of the following sums approximates the change in the value of the stocks over the interval of time from 4 to 7 months after the stocks were purchased?
+
+\begin{enumerate}
+
+\item $\sum_{k=4}^7g(k)$
+
+\item $\sum_{k=4}^7g(t)\cdot\Delta t$
+
+\item $\sum_{k=1}^6g(4+.5k)\cdot .5$
+
+\item $\sum_{k=0}^3g(4+k)\cdot \Delta t$
+
+\item $\sum_{k=0}^3g(4+k)$
+
+\end{enumerate}
+
+
+
+\item Let $f(x)$ represent the linear density (in g/m) of a 20 meter long wire, where $x$ is the distance in meters from one end. The mass of the wire is approximated by the left endpoint approximation with $N$ terms:
+
+$$\sum_{i=1}^N f((i-1)\Delta x)\cdot \Delta x$$
+
+Note that this Riemann sum is based on a uniform partition.
+
+Explain what the following expressions represent {\bf in the context of the wire} and provide its units of measurement. 
+
+\begin{enumerate}
+
+\item $\Delta x$
+
+\item $(i-1)\Delta x$
+
+\item $f((i-1)\Delta x)$
+
+\item $f((i-1)\Delta x)\cdot \Delta x$
+
+\item $\sum_{k=1}^Nf((i-1)\Delta t)\cdot \Delta t$
+
+
+\end{enumerate}
+
+
+\item Let $f(t)$ represent the horizontal velocity (in ft/s) of a golf ball $t$ seconds after it was struck and lands $b$ seconds later. The horizontal distance traveled by the golf ball is approximated by the right endpoint approximation with $N$terms:
+
+$$\sum_{i=1}^N f(i\Delta t)\cdot \Delta t$$
+
+Note that this Riemann sum is based on a uniform partition.
+
+Explain what the following expressions represent {\bf in the context of the golf ball} and provide its units of measurement. 
+
+\begin{enumerate}
+
+\item $\Delta t$
+
+\item $i\Delta t$
+
+\item $f(i\Delta t)$
+
+\item $f(i\Delta t)\cdot \Delta t$
+
+\item $\sum_{k=1}^Nf(i\Delta t)\cdot \Delta t$
+
+
+
+\end{enumerate}
+
+\item The function $g(t)$ gives the rate at which oil leaves a tanker, and is decreasing between $2$ minutes and $10$ minutes. Which of the following are underestimates of the amount of oil that left the tank between $2$ and $10$ minutes.
+
+\begin{enumerate}
+
+\item $g(2)+g(3)+g(4)+g(5)+g(6)+g(7)+g(8)+g(9)$
+
+\item $\sum_{k=3}^{10}g(k)$
+
+\item $\sum_{j=1}^{20}g\left(2+\frac{j-1}{2}\right)\cdot \frac{1}{2}$
+
+\item $\sum_{j=1}^{20}g\left(2+\frac{j}{2}\right)\cdot \frac{1}{2}$
+
+\item $2\cdot (g(4)+g(6)+g(8)+g(10))$
+
+\item $2\cdot (g(3)+g(5)+g(7)+g(9))$
+
+
+
+\end{enumerate}
+
+
+
+\end{enumerate}
+
+\end{document}

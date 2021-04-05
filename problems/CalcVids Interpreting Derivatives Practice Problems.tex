@@ -1,0 +1,114 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+
+\section*{Interpreting Derivatives}
+
+\begin{enumerate}
+
+\item The function $L$ gives the average length of salmon in a particular pond as a function of age (time) in years, $t$ . Write the meaning for each of the following expressions in the context of this situation.
+
+\begin{enumerate}
+
+\item $g(5)-g(2)$
+
+\item $\frac{g(t+4)-g(t)}{4}$
+
+\item $\lim_{\Delta t\rightarrow 0}\frac{g(3.7+\Delta t)-g(3.7)}{\Delta t}$
+
+\end{enumerate}
+
+\item  The temperature $T$ (in degrees Fahrenheit) of a 12 ounce cup of coffee at time $t$ (in minutes since the coffee was brewed) is given by $T(t) = \frac{3}{8}t^2-13t+180$ for $0\le t\le 10$. What is the most appropriate interpretation of the statement
+\[
+T^\prime(4.2) = -9.85?
+\]
+\begin{enumerate}
+\item [a.] 4.2 minutes after the coffee was brewed, the temperature of the coffee was 9.85 degrees Fahrenheit less than the initial brew temperature. \vspace{0.2cm}
+\item [b.]  4.2 minutes after the coffee was brewed, the temperature of the coffee was changing at a rate of $-9.85$ degrees Fahrenheit per minute.\vspace{0.2cm}
+\item [c.] On average, the temperature of the coffee decreased by 9.85 degrees Fahrenheit each minute over the first 4.2 minutes since it was brewed. \vspace{0.2cm} 
+\item [d.]  The temperature of the coffee decreased by 9.85 degrees Fahrenheit during the fourth minute after the coffee was brewed. \vspace{0.2cm}  
+\item [e.] The temperature of the coffee was approximately 132.01 degrees Fahrenheit exactly 4.2 minutes after the coffee was brewed.
+\end{enumerate}
+
+\pagebreak
+
+\item The function $f$ gives the amount of water (in thousands of gallons) in a Stillwater water tower $t$ hours after noon on September 17, 2019. Write the meaning for each of the following expressions in the context of this situation.
+\vspace{0.2cm}
+\begin{enumerate}
+\item [a.]  $f(1)$ \vspace{0.1cm} 
+\item [b.]  The solution $t_0$ to the equation $f(t_0)=5.2$ \vspace{0.1cm}  
+\item [c.]  $f(7.2)-f(3.5)$ \vspace{0.1cm}
+\item [d.]  $\frac{f(t+6)-f(t)}{6}$ \vspace{0.1cm}
+\item [e.]  $\lim_{\Delta t\rightarrow 0}\frac{f(5.2+\Delta t)-f(5.2)}{\Delta t}$
+\item [f.] The solution $t_0$ to the equation $\lim_{\Delta t\rightarrow 0}\frac{f(t_0+\Delta t)-f(t_0)}{\Delta t}=-125$
+\end{enumerate}
+
+\item The function $y=g(t)$ measures the amount of iron in Mikayla's bloodstream (in milligrams) where $t$ is measured in minutes since she ingested an iron supplement. What is the most appropriate interpretation of $g'(28)=3.7$?
+
+\begin{enumerate}
+
+\item Twenty-eight minutes after ingesting the iron supplement, the amount of iron in Mikayla's bloodstream was growing at a rate of 3.7 milligrams per minute.
+
+\item Twenty-eight minutes after ingesting the iron supplement, Mikayla had 3.7 milligrams of iron in her bloodstream.
+
+\item The amount of iron in Mikayla's bloodstream grew by 3.7 milligrams during the 29th minute after she ingested the iron supplement.
+
+\item On average, the amount of iron in Mikayla's bloodstream increased by 3.7 milligrams each minute over the first 28 minutes since she ingested the iron supplement.
+
+\item The amount of iron in Mikayla's bloodstream grew by 3.7 milligrams during the first 28 minutes after she ingested the iron supplement.
+\end{enumerate}
+
+\item Courtney is driving from Stillwater to Denver. The function $y = f(t)$ measures the amount of fuel Courtney's car has consumed (in gallons) where $t$ is measured in hours since Courtney left Stillwater. What is the most appropriate interpretation of $f^\prime (5) = 2.5$?
+
+\begin{enumerate}
+
+\item On average, the amount of fuel Courtney's car consumed increased by 2.5 gallons each hour over the first 5 hours since she left Stillwater.
+
+\item Five hours after leaving Stillwater, the amount of fuel consumed Courtney's car was changing at a rate of 2.5 gallons per hour.
+
+\item Courtney's car had 2.5 gallons of fuel in its tank 5 hours after leaving Stillwater.
+
+\item The amount of fuel Courtney's car has consumed increased by 2.5 gallons during the 5th hour after she left Stillwater.
+
+\item Courtney's car consumed 2.5 gallons of fuel during the first 5 hours of her drive from Stillwater to Denver.
+
+\end{enumerate}
+
+
+
+\end{enumerate}
+
+
+\end{document}

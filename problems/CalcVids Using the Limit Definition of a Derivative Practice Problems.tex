@@ -1,0 +1,141 @@
+\documentclass[12pt]{report}
+
+\usepackage{times} %Times New Roman?
+\usepackage{mathtools} %More Math Tools
+\usepackage{changepage} %Changing Margins and Indent
+\usepackage{extramarks} %Required for headers/footers?
+\usepackage{enumerate}
+\usepackage{graphicx} %Insert pictures
+\usepackage{empheq} %Emphasize equations
+\usepackage[none]{hyphenat}
+\usepackage[titles]{tocloft}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry} %1inch margins?
+\usepackage{multirow}
+\pagenumbering{gobble}
+\usepackage{fancyref}
+\usepackage[explicit]{titlesec}
+\usepackage{setspace}
+\linespread{1} %Line Spacing
+\everymath{\displaystyle}
+\usepackage{fancyhdr}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{tabularx}
+
+
+\begin{document}
+\newcommand{\less}{\textless}
+\newcommand{\greater}{\textgreater}
+\newcommand{\reals}{\mathbb{R}}
+\newcommand{\integers}{\mathbb{Z}}
+\newcommand{\rationals}{\mathbb{Q}}
+\newcommand{\dsp}{\displaystyle}
+
+
+
+\section{Using the Limit Definition of a Derivative**}
+
+\begin{enumerate}
+
+\item The function $f$ gives the voltage (in Volts) across a capacitor as a function of time $t$ (in seconds) since the capacitor started being charged. Write the meaning for each of the following expressions in the context of this situation.
+
+\begin{enumerate}
+
+\item $f(5)-f(2)$
+
+\item $\frac{f(t+4)-f(t)}{4}$
+
+\item $\lim_{\Delta t\rightarrow 0}\frac{f(t+\Delta t)-f(t)}{\Delta t}$
+
+\end{enumerate}
+
+\item Consider the function defined by $f(x) = x^2 - 1$. What is the value of $ \lim_{h \to 0}\frac{f(3+h)-f(3)}{(3+h)-3}$?
+
+\begin{enumerate}
+
+\item $0$
+
+\item $6$
+
+\item 8
+
+\item $2x$
+
+\item The limit does not exist.
+
+\end{enumerate}
+
+\item The expression $\lim_{h \to 0}\frac{(x+h)^3-\ln(x+h) - \left(x^3-\ln(x)\right)}{h}$ is the derivative of what function?
+
+\begin{enumerate}
+
+\item $f(x) = (x+h)^3-\ln(x+h)$
+
+\item $f(x) = 3x^2 - \frac{1}{x}$
+
+\item $f(x) = 3x^2 - \frac{1}{x}$
+
+\item $f(x) = x^3 - \ln(x)$
+
+\item $f(x) = \frac{(x+h)^3-\ln(x+h) - \left(x^3-\ln(x)\right)}{h}$
+
+\end{enumerate}
+
+\item Evaluate $\lim_{h \to 0} \frac{5\left(-1+h\right)^9 - 5\left(-1\right)^9}{h}$.
+
+\begin{enumerate}
+
+\item 45
+
+\item -45
+
+\item 5
+
+\item -5
+
+\item Limit does not exist
+
+\end{enumerate}
+
+\item If $f$ is a differentiable function and $a$ is a number, then $f^\prime(a)$ is given by which of the following expressions: \vspace{0.2cm}
+\begin{enumerate}
+\item [I.] $\dsp \lim_{h \to 0}\frac{f(a+h)-f(a)}{h}$ \vspace{0.2cm}
+\item [II.] $\dsp \lim_{x \to a}\frac{f(x)-f(a)}{x-a}$ \vspace{0.2cm}
+\item [III.] $\dsp \lim_{h \to 0}\frac{f(x+h)-f(x)}{x-h}$\\
+\end{enumerate}
+\begin{enumerate}
+\item [a.] I only
+\item [b.] II only
+\item [c.] I and II only
+\item [d.] I and III only
+\item [e.] I, II, and III
+\end{enumerate}
+
+\item  The following expression represents the derivative of what function?\vspace{0.25cm}
+\[
+\lim_{\Delta x \to 0}\frac{3\cos^2(x+\Delta x)-3\cos^2(x)}{\Delta x}
+\]\vspace{0.25cm}
+\begin{enumerate}
+\item [a.] $f(x) = 3\cos^2(x+\Delta x)$ \vspace{0.2cm}
+\item [b.] $f(x) = 3\cos^2(x)$ \vspace{0.2cm}
+\item [c.] $f(x) = 3\cos^2(x+\Delta x)-3\cos^2(x)$ \vspace{0.2cm}
+\item [d.] $f(x) = 6\cos(x)\sin(x)$ \vspace{0.2cm}
+\item [e.] $\dsp f(x) = \frac{3\cos^2(x+\Delta x)-3\cos^2(x)}{\Delta x}$
+\end{enumerate}
+
+\item $\dsp \lim_{h \to 0} \frac{(2+h)^4-2^4}{h}=$ \vspace{0.25cm}
+\begin{enumerate}
+\item [a.] 0 \vspace{0.2cm}
+\item [b.] 16 \vspace{0.2cm}
+\item [c.] 1 \vspace{0.2cm}
+\item [d.] 32 \vspace{0.2cm}
+\item [e.] The limit does not exist
+\end{enumerate}
+
+\end{enumerate}
+
+
+
+\end{document}
