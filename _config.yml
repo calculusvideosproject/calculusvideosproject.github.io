@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'The Calculus Videos Project'
+title: 'Calculus Videos Project'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Designing and Conducting Research about Instructional Calculus Videos'
+slogan: 'Project to understand videos in learning calculus'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Website for the Calculus Videos Project'
+description: 'This is a website for the Calculus Videos Project'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: calculusvideosproject
+author: mthomas7
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: calculusvideosproject     # Default author for pages
+      author: mthomas7     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: calculusvideosproject     # Default author for posts
+      author: mthomas7     # Default author for posts
 
 
 

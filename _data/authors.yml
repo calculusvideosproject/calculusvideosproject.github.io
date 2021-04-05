@@ -5,10 +5,10 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-calculusvideosproject: # replace this with your info
-  name: "calculusvideosproject"
+mthomas7: # replace this with your info
+  name: "mthomas7"
   siterole: "webmaster, researcher"
-  uri: http://calculusvideosproject.github.io/
-  email: aweinberg@ithaca.edu
+  uri: http://mthomas7.github.io/
+  email: mthomas7@ithaca.edu
 #  twitter: "@phlow"
 # you can add more authors here
