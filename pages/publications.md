@@ -26,3 +26,10 @@ The goals of the Calculus Video Project are to conduct design research to genera
 - Waters, K. & Martsching, W. (2018). Investigating Students’ Graphical Reasoning In Mathematics Using Eye-Tracking. *University of Central Arkansas Student Research Symposium*, Conway, AR: The University of Central Arkansas. April 20th.
 - Graham, K. & Gloster, W. (2018). Eye-Tracking Students Watching Calculus Videos. *University of Central Arkansas Student Research Symposium*, Conway, AR: The University of Central Arkansas. April 20th.
 - Graham, K. & Gloster, W. (2018). Eye-tracking and calculus videos. *STEM Posters at the Capitol*, Little Rock, AR. February, 14th.
+
+## Invited Presentations
+-Calculus Videos Project: Theoretical design principles for supporting students’ learning from instructional videos, presented at the *SIGMAA on RUME Virtual Invited Paper Session* for MathFest in July, 2020
+-Quantitative Reasoning and Intellectual Need: Design Principles for Instructional Materials, presented at the *MIT Electronic Seminar in Mathematics Education* in October, 2020
+-Quantitative Reasoning and Intellectual Need, presented at the *University of Northern Colorado Mathematics Education Seminar* in October, 2020
+-The Calculus Videos Project, presented at the *University of Northern Colorado Mathematics Education Seminar* in October, 2020
+-Student Learning from Instructional Calculus Videos, presented at the *University of Oklahoma Mathematics Education Seminar* in March, 2021
