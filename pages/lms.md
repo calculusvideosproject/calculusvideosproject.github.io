@@ -29,6 +29,10 @@ Course Packages (With Errata)
   - <a href="calcvids-brightspace-export.zip">Brightspace Package</a>
   - <a href="https://documentation.brightspace.com/EN/le/course_administration/instructor/import_course_components.htm">Brightspace Instructions</a>
 
+User-Created Course Packages
+---------
+- Bryan Faulkner from Ferrum College has created <a href="CalcVidsBrightspace_Quizzes.zip">Brightspace Quizzes</a> for 15 of the Calcvids modules.
+
 
 If you find an error in any of the materials, please submit it via <a href="https://docs.google.com/spreadsheets/d/1vix-6o_g2ysd43qJ0q4aS1TylQgV2L-3l7hWtSHBHNg/edit?usp=sharing">this form</a>.
 
