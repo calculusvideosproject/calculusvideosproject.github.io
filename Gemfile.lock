@@ -1,5 +1,16 @@
 GEM
-  remote: https://rubygems.org/
+       final Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
+        XMLInputFactory xmlInputFactory = XMLInputFactory.newFactory();
+        // These 2 properties are the key
+        xmlInputFactory.setProperty(XMLInputFactory.SUPPORT_DTD, false);
+        xmlInputFactory.setProperty(XMLInputFactory.IS_SUPPORTING_EXTERNAL_ENTITIES, false);
+        // Your stream reader for the xml string
+        final XMLStreamReader xmlStreamReader = xmlInputFactory
+                .createXMLStreamReader(new StringReader(yourXMLStringGoesHere));
+        final NsIgnoringXmlReader nsIgnoringXmlReader = new NsIgnoringXmlReader(xmlStreamReader);
+        // Done with unmarshalling the XML safely
+        final YourObject obj = (YourObject) unmarshaller.unmarshal(nsIgnoringXmlReader);
+  remote: https://rubygems.org/      
   specs:
     activesupport (6.0.3.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)
