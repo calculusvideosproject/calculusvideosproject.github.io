@@ -1,15 +1,4 @@
 GEM
-       final Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
-        XMLInputFactory xmlInputFactory = XMLInputFactory.newFactory();
-        // These 2 properties are the key
-        xmlInputFactory.setProperty(XMLInputFactory.SUPPORT_DTD, false);
-        xmlInputFactory.setProperty(XMLInputFactory.IS_SUPPORTING_EXTERNAL_ENTITIES, false);
-        // Your stream reader for the xml string
-        final XMLStreamReader xmlStreamReader = xmlInputFactory
-                .createXMLStreamReader(new StringReader(yourXMLStringGoesHere));
-        final NsIgnoringXmlReader nsIgnoringXmlReader = new NsIgnoringXmlReader(xmlStreamReader);
-        // Done with unmarshalling the XML safely
-        final YourObject obj = (YourObject) unmarshaller.unmarshal(nsIgnoringXmlReader);  
   remote: https://rubygems.org/      
   specs:
     activesupport (6.0.3.6)
@@ -228,7 +217,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.2)
+    nokogiri (1.12.5)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     octokit (4.20.0)
