@@ -9,7 +9,7 @@ GEM
                 .createXMLStreamReader(new StringReader(yourXMLStringGoesHere));
         final NsIgnoringXmlReader nsIgnoringXmlReader = new NsIgnoringXmlReader(xmlStreamReader);
         // Done with unmarshalling the XML safely
-        final YourObject obj = (YourObject) unmarshaller.unmarshal(nsIgnoringXmlReader);
+        final YourObject obj = (YourObject) unmarshaller.unmarshal(nsIgnoringXmlReader);  
   remote: https://rubygems.org/      
   specs:
     activesupport (6.0.3.6)
@@ -18,7 +18,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     asciidoctor (1.5.8)
     coderay (1.1.1)
