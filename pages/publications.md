@@ -11,6 +11,8 @@ The goals of the Calculus Video Project are to conduct design research to genera
 - Weinberg, A. & Martin, J. (2020). Creating and using videos for teaching math: Suggestions from the field. *MAA FOCUS*, 40(4), pp. 20-23.
 
 ## Conference Papers
+- Weinberg, A., Tallman, M., & Martin, J., (2021) The effects of instructors and student activity in learning from instructional calculus videos. In Olanoff, D., Johnson, K., & Spitzer, S. (Eds.). *Proceedings of the 43rd annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.* (pp. 1733-1737). Philadelphia, PA.
+  - [Paper](https://drive.google.com/file/d/1drhOH_kVEYASqt2KESe6p2FK-glrjQLD/view?usp=sharing)
 - Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019) Identifying students' attentive fidelity for calculus instructional videos. In Otten, S., Candela, A. G., de Araujo, Z., Haines, C., & Munter, C. (Eds.), *Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 955-960) St Louis, MO: University of Missouri.  
   - [Paper](https://drive.google.com/open?id=1i0O-bBQ3Qj-OfgVb833NzRRhjlKM1SzM)
 - Waters, K., Martsching, W., Martin, J. (2019). What are you looking at? Shape thinking and eye-tracking. In Weinberg, Moore-Russo, Soto, & Wawro (Eds.), *Proceedings of the Twenty-Second Conference on Research in Undergraduate Mathematics Education* (pp. 646-653), Oklahoma City, OK: The University of Oklahoma and Oklahoma State University.
