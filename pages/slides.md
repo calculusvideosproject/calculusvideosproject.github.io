@@ -18,136 +18,136 @@ Please note that these slides use the *Avenir Next* and *whatever it takes* font
 
 <tr><td>Constant Rates of Change</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1MHqIcgSzaceL0EKfiNjEBPNO3hR-cc9h/view?usp=sharing">Video 1 Slides: Solving the Problem of Pouring Water</a>
-  <li><a href="https://drive.google.com/file/d/1FIx-MtWaDdgmgjnYmQcGF1wkvbvXydZ4/view?usp=sharing">Video 2 Slides: Formal Definition of Constant Rate of Change</a>
+  <li><a href="https://app.box.com/s/q8p2zavv0mcenuk9d8pbl72vadlwr1q8">Video 1 Slides: Solving the Problem of Pouring Water</a>
+  <li><a href="https://app.box.com/s/jzjx5qrz4n4vyjrboiq6lt1z9n7aatpv">Video 2 Slides: Formal Definition of Constant Rate of Change</a>
 <tr><td>Graphing Constant Rate of Change</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1-Mi_gPH1A8aqy3QttTKdAp-MN0nQPwTF/view?usp=sharing">Video 1 Slides: Graphing Cannon Cow</a>
-  <li><a href="https://drive.google.com/file/d/1Byjs47_G2ZabsmBXhLDEYc5YpH5amPv1/view?usp=sharing">Video 2 Slides: Graphing Pouring Water</a>
+  <li><a href="https://app.box.com/s/un9lc2vp697q0lsd7aupgcwv31bdtnrv">Video 1 Slides: Graphing Cannon Cow</a>
+  <li><a href="https://app.box.com/s/hb9txttwkw3e3duik1du1nyt8bydpvoj">Video 2 Slides: Graphing Pouring Water</a>
 <tr><td>Varying Rates of Change</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1wOQoEUbIL_12H_ybdQfQfYYYSvFv7SsR/view?usp=sharing">Video 1 Slides: Solving the Problem of Pouring Water</a>
-  <li><a href="https://drive.google.com/file/d/1rlqoi1Rlt8hlwjwTNMpFuAiCUU18rub1/view?usp=sharing">Video 2 Slides: Frozen Yogurt in a Cone</a>
+  <li><a href="https://app.box.com/s/ouabb4r9uewudsw1svhqvrh7wz5c2qee">Video 1 Slides: Solving the Problem of Pouring Water</a>
+  <li><a href="https://app.box.com/s/2hsk1ych3lu3mtdd6e5j5d1dizdsu0k7">Video 2 Slides: Frozen Yogurt in a Cone</a>
 <tr><td>Graphing Varying Rates of Change</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1x1MkI9aR1ip6PzA0z6ldQOZhXUaX64i-/view?usp=sharing">Video 1 Slides Making a Graph for Filling a Spherical Flask</a>
+  <li><a href="https://app.box.com/s/4ym09azf7ka1vdldzedv21q70igqj8xv">Video 1 Slides Making a Graph for Filling a Spherical Flask</a>
 <tr><td>Average Rates of Change</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1trzHja9PorvX7nDpV3wTEMINpqoJ2T42/view?usp=sharing">Video 1 Slides: Average Rates of Change as Constant Rates of Change</a>
-  <li><a href="https://drive.google.com/file/d/1TQsJpCalr2fNK_QijW5BcyzndO_7NJTP/view?usp=sharing">Video 2 Slides: A Precise Description of Average Rates of Change</a>
+  <li><a href="https://app.box.com/s/obqypxcnmji8oqt5b2yly72l30cstivc">Video 1 Slides: Average Rates of Change as Constant Rates of Change</a>
+  <li><a href="https://app.box.com/s/o3tvyx6ig3bz3nnxydhdmbwmewq6o83c">Video 2 Slides: A Precise Description of Average Rates of Change</a>
 <tr><td>Approximating Instantaneous Rates of Change</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1W1jWlN2Wjo3wIwxIXnYxvXd1HnYHIEht/view?usp=sharing">Video 1 Slides: Approximating the Speed of a Baseball</a>
-  <li><a href="https://drive.google.com/file/d/13gDAqOOWhzQJznQnUSrEf8JcmYFRnqk2/view?usp=sharing">Video 2 Slides: Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
+  <li><a href="https://app.box.com/s/7s48hpzuuc01zyroi04pp6tswsgy2gqp">Video 1 Slides: Approximating the Speed of a Baseball</a>
+  <li><a href="https://app.box.com/s/xcy6i5dqxh8bxz859nuo0o5csbxccvv7">Video 2 Slides: Using Average Rates of Change to Approximate an Instantaneous Rate of Change</a>
 <tr><td>Continuity</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/16jMDdrPKLhAi2gCq_YdgLmjXRaPRTLj4/view?usp=sharing">Video 1 Slides: Continuity</a>
+  <li><a href="https://app.box.com/s/296u53a4k4marw5usepzqxpv4f9xfhdw">Video 1 Slides: Continuity</a>
 <tr><td>Differentiability and Local Linearity</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/12efMcgWkBje1ebd5VfyOlZbjLnFccX7O/view?usp=sharing">Video 1 Slides: Local Linearity</a>
+  <li><a href="https://app.box.com/s/9io5tx7mzr0ukslwyexjp6hku08ig5cn">Video 1 Slides: Local Linearity</a>
 <tr><td>Limit at a Point</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1Nm-SC57fVhaCHm27DlPzgMOcF-HY4Vhz/view?usp=sharing">Video 1 Slides: What is a Limit?</a>
-  <li><a href="https://drive.google.com/file/d/1iIgI2UdXZDb1iBnMFEAbU3MYHx1vKMXh/view?usp=sharing">Video 2 Slides: One Sided Limits</a>
+  <li><a href="https://app.box.com/s/wypcj5bxjfuoisek4t603i6vp45qr1cs">Video 1 Slides: What is a Limit?</a>
+  <li><a href="https://app.box.com/s/w6lbgyuwqvdo228vwjl1cx0ehl3gocm7">Video 2 Slides: One Sided Limits</a>
 <tr><td>Limit Laws</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1LYJ3JygD-MlPhcI15-0JkjTI-C68XJmy/view?usp=sharing">Video 1 Slides: Limit Laws</a>
+  <li><a href="https://app.box.com/s/bleovzi3vhy1i0431ab2w3lltzin86hg">Video 1 Slides: Limit Laws</a>
 <tr><td>Limit Definition of Derivative</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/13VccK9tcF9GGs3McZAl73rK55h_6Nqxg/view?usp=sharing">Video 1 Slides: Defining the derivative</a>
+  <li><a href="https://app.box.com/s/zlf75qvvt4f9qnjxsuew5a7eg2g7cplv">Video 1 Slides: Defining the derivative</a>
 <tr><td>Using the Limit Definition of Derivative</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1tlztm0YWrHf-lu-KFjVSnxuYmPrEUN6R/view?usp=sharing">Video 1 Slides: Using Limits to Compute Instantaneous Rates of Change</a>
+  <li><a href="https://app.box.com/s/2ca2ktw9nqf7icphlvcvsovyqctekn8b">Video 1 Slides: Using Limits to Compute Instantaneous Rates of Change</a>
 <tr><td>Interpreting Derivatives</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1keKznyrZYMZ13pTuJZFWK7nJqZZ1fmTe/view?usp=sharing">Video 1 Slides: Interpreting the Derivative</a>
+  <li><a href="https://app.box.com/s/frej0vzgq9noyqsxeyh6ivu9avoxwhln">Video 1 Slides: Interpreting the Derivative</a>
 <tr><td>Slopes of Secant and Tangent Lines</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1JfAmsbgMFpQu7FqifMYpji5eBwwQtpVc/view?usp=sharing">Video 1 Slides: Finding the speed of a baseball at a moment in time graphically</a>
-  <li><a href="https://drive.google.com/file/d/1xDxkMNqFLhdBhO50bRokSQ06BGGxf-o9/view?usp=sharing">Video 2 Slides: Graphing the rate of change of metabolizing ibuprofen</a>
+  <li><a href="https://app.box.com/s/4rpfehri5gk62ti1w7ql4lae8nwivqoy">Video 1 Slides: Finding the speed of a baseball at a moment in time graphically</a>
+  <li><a href="https://app.box.com/s/yxo56o4b959svagvvr3x3bvja23w58l8">Video 2 Slides: Graphing the rate of change of metabolizing ibuprofen</a>
 <tr><td>Graphing Derivatives</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1IwwWbL_R2SEGgOfUBHvpP4UgeoLyFQnm/view?usp=sharing">Video 1 Slides: Graphing the Derivative Function</a>
+  <li><a href="https://app.box.com/s/kzuao72uvt18lvwg87t5uqmerq222qnn">Video 1 Slides: Graphing the Derivative Function</a>
 <tr><td>Basic Derivative Rules</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1MDKe6F4GsJQ2kprJ50JoEGfbReHvPZX4/view?usp=sharing">Video 1: The Power Rule</a>
-  <li><a href="https://drive.google.com/file/d/114DlwosuSiWP3uzmk-4QRntsELKx9v3-/view?usp=sharing">Video 2: Exponential and Logarithmic Functions</a>
-  <li><a href="https://drive.google.com/file/d/1C7FaTItRhRCrvj47tuZ9YWWsCWEEWSQk/view?usp=sharing">Video 3: Trigonometric Functions</a>
+  <li><a href="https://app.box.com/s/mdmkbyh1eu98nig4i5epiqznadbkxf3q">Video 1: The Power Rule</a>
+  <li><a href="https://app.box.com/s/aygojhqnehhttgzb4no4mwi3cgmuqour">Video 2: Exponential and Logarithmic Functions</a>
+  <li><a href="https://app.box.com/s/ykmmhzisbtmso2numgo6mvi69wt1yxfg">Video 3: Trigonometric Functions</a>
 <tr><td>The Product Rule</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1TC3Rg9IoAJER3bhw8H9PixIIsu9Jz-cS/view?usp=sharing">Video 1: Procedural Description of the Product Rule</a>
-  <li><a href="https://drive.google.com/file/d/1PinAkJ-Nxb_ecpdhHyys5wz_veefUtPJ/view?usp=sharing">Video 2: Conceptual Explanation of the Product Rule</a>
+  <li><a href="https://app.box.com/s/pd9x8iwuehydnhyqkj00dh1hdg1bkl9d">Video 1: Procedural Description of the Product Rule</a>
+  <li><a href="https://app.box.com/s/utpsg14dfz4rmrbdj14103d1h31qg70n">Video 2: Conceptual Explanation of the Product Rule</a>
 <tr><td>The Quotient Rule</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1OIkgBPnG5BtRjlDJCpeZL0Uh_EJVds31/view?usp=sharing">Video 1: The Quotient Rule</a>
-  <li><a href="https://drive.google.com/file/d/1AMvv9QQtkal4tECIiIc8P4zSpPby8LzU/view?usp=sharing">Video 2: Why the Quotient Rule Works</a>
+  <li><a href="https://app.box.com/s/rdpium6lpfzro85w547o3jerwkmv6awi">Video 1: The Quotient Rule</a>
+  <li><a href="https://app.box.com/s/pv9h13y3amxt3koquf3rdat1zltrapky">Video 2: Why the Quotient Rule Works</a>
 <tr><td>The Chain Rule</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1lO7Qno0P8mmWdEoYR9jVFbNXQAxx3v_1/view?usp=sharing">Video 1: Computing the Average Rate of Change of a Composition of Functions</a>
-  <li><a href="https://drive.google.com/file/d/1GEli7M7rdJ3wACyeSzVUiEKMb_dt2HCU/view?usp=sharing">Video 2: How to Use the Chain Rule</a>
-  <li><a href="https://drive.google.com/file/d/1uOaNXGEI92J-YOAsgCtEjkiEayKPMwc6/view?usp=sharing">Video 3: Why the Chain Rule Works</a>
+  <li><a href="https://app.box.com/s/sia913lrhvcam8tsmu115rf0ek2cgul6">Video 1: Computing the Average Rate of Change of a Composition of Functions</a>
+  <li><a href="https://app.box.com/s/np9it1y3eywv5ymrj179dth5d5jlm966">Video 2: How to Use the Chain Rule</a>
+  <li><a href="https://app.box.com/s/7bkmx9jx8sjomxawgwuktgyw0jq1sksw">Video 3: Why the Chain Rule Works</a>
 <tr><td>l'Hopital's Rule</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1ItJto0I6TMifNnqA8q008NO5SLZxfhED/view?usp=sharing">Video 1 Slides: Limits of Quotients</a>
+  <li><a href="https://app.box.com/s/sdoq15jy4ffrt25krszxz9c9r70c32b7">Video 1 Slides: Limits of Quotients</a>
 <tr><td>Mean Value Theorem</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1D9_bxr35S_yiILF1l2GFGJQ13kjeZRsN/view?usp=sharing">Video 1: Mean Value Theorem</a>
-  <li><a href="https://drive.google.com/file/d/1o4t6o4yJTQbY2arjm5b95D0q-aoUfNrG/view?usp=sharing">Video 2: Mean Value Theorem, Why it Works</a>
-  <li><a href="https://drive.google.com/open?id=1IXjdhZasaYFn2zbAkWkcLxHuHEKsgnRh">Video 2 Extended: Mean Value Theorem, Why it Works</a>
+  <li><a href="https://app.box.com/s/mglwdr11c2hk9a71eos7luf1swkv6ire">Video 1: Mean Value Theorem</a>
+  <li><a href="https://app.box.com/s/rv7qmee3fqka7vch2rnitfqwwwe3z0gn">Video 2: Mean Value Theorem, Why it Works</a>
+  <li><a href="https://app.box.com/s/07tvqxce9fxaqad2skhfkhdf7ew6smrh">Video 3: Mean Value Theorem, Extended Explanation</a>
 <tr><td>Related Rates</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1NanZ_xPk-D-9pz3D6vD_Q-o70eMK_hVb/view?usp=sharing">Video 1: Defining a Related Rate Formula</a>
-  <li><a href="https://drive.google.com/file/d/1yF5wlIPRn9x6GpkpJsmZ3S0lv7ZhGjv2/view?usp=sharing">Video 2: Solving A Related Rates Problem</a>
+  <li><a href="https://app.box.com/s/37fqgu0qjsgk3la774g9izb30gid3h38">Video 1: Defining a Related Rate Formula</a>
+  <li><a href="https://app.box.com/s/9rbe0h1amoxmy5dfxg1wi4451mri4jnj">Video 2: Solving A Related Rates Problem</a>
 <tr><td>Implicit Differentiation</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1HJjpLFdlOXChpEWKdhj8gATPlL96D1eb/view?usp=sharing">Video 1: Introduction to Implicit Differentiation</a>
-  <li><a href="https://drive.google.com/file/d/1nlo71SrAnDK3XtDIul383HciaWv7znTQ/view?usp=sharing">Video 2: Tangent Lines for a Cardioid</a>
+  <li><a href="https://app.box.com/s/vae60sfnm9e6g1gd7bc3ov2gdn2bxnnc">Video 1: Introduction to Implicit Differentiation</a>
+  <li><a href="https://app.box.com/s/g4mhgtpozam4fbevots993i5yf5jxns4">Video 2: Tangent Lines for a Cardioid</a>
 <tr><td>Introduction to Optimization</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/13dD6sZDMe2lfevCkIpmaj7Y8J9yjSVRv/view?usp=sharing">Video 1: Using Derivatives to Maximize Fuel Economy</a>
-  <li><a href="https://drive.google.com/file/d/1dIW_I_ru0A0LEOrFytQkws7ZQw5hFP5H/view?usp=sharing">Video 2: An Example of Optimization</a>
+  <li><a href="https://app.box.com/s/xdm8phjp693plkywiaw1ie3zuhjq2vl4">Video 1: Using Derivatives to Maximize Fuel Economy</a>
+  <li><a href="https://app.box.com/s/r0yld2nuoif3ujqq8mnjg7xyyuzcz77o">Video 2: An Example of Optimization</a>
 <tr><td>Optimization: Algebraic Modeling</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1CH-ABDnURFKNCrTV9-KzC0gC0bpSm3n2/view?usp=sharing">Video 1: How to Maximize the Area of a Rectangular Pen</a>
+  <li><a href="https://app.box.com/s/99ky39xmiz5r19yq4be2kacqid7ybejb">Video 1: How to Maximize the Area of a Rectangular Pen</a>
 <tr><td>Introduction to Riemann Sums</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1jTPP3hcXCC656IrTmkOrMEz801vINaKS/view?usp=sharing">Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
-  <li><a href="https://drive.google.com/file/d/1CfqSdto26XuZg5YsFLn-clzsDEFtFgTB/view?usp=sharing">Video 2: A Riemann Sum for an Oil Spill</a>
+  <li><a href="https://app.box.com/s/s9ri1wljwpbod6n54y1cxm50xvqx4eau">Video 1: Using a Riemann Sum to Approximate the Amount of Accumulated Dust</a>
+  <li><a href="https://app.box.com/s/f3kou4nwd928mw7sq9xqzcsggmjk6w2x">Video 2: A Riemann Sum for an Oil Spill</a>
 <tr><td>Riemann Sum Notation</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1I-tm7M2mFuLrneB2e9gN0Zy4pMFiQQJ_/view?usp=sharing">Video 1: Writing Riemann Sums using Sigma Notation</a>
+  <li><a href="https://app.box.com/s/5h5i4kdw7l7n4pzj8us044j202dfcqac">Video 1: Writing Riemann Sums using Sigma Notation</a>
 <tr><td>Definite Integrals</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1o4QatlzEJEdXbAErAESfBdDfCWiJdYn5/view?usp=sharing">Video 1: Definite Integrals as Limits of Riemann Sums</a>
-  <li><a href="https://drive.google.com/file/d/1zlxuwQX_Da1oUqbLWTl_LJ1i8r3ydV9p/view?usp=sharing">Video 2: A Definite Integral for an Oil Spill</a>
+  <li><a href="https://app.box.com/s/vdim09y6hcdh1tn2ec7jpc2ngeyj1a3n">Video 1: Definite Integrals as Limits of Riemann Sums</a>
+  <li><a href="https://app.box.com/s/vdim09y6hcdh1tn2ec7jpc2ngeyj1a3n">Video 2: A Definite Integral for an Oil Spill</a>
 <tr><td>Antiderivatives</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1HBUWMxe7oIlx_Zd05Q1Quk1ohX-uh7oV/view?usp=sharing">Video 1: Antiderivatives</a>
-  <li><a href="https://drive.google.com/file/d/1AMGCfcDTzNzthwAOb9HbDm9qBuyqz9bE/view?usp=sharing">Video 2: Antiderivatives, Part 2</a>
-  <li><a href="https://drive.google.com/file/d/1EZQHNheksJdx00wMnrGsjPH-uJZfGxzn/view?usp=sharing">Video 3: Using Antiderivative Rules</a>
+  <li><a href="https://app.box.com/s/mq52z6g4zwuty361uf011ludkafdqch0">Video 1: Antiderivatives</a>
+  <li><a href="https://app.box.com/s/lbjrjbenyet2hlzzjvsd69jffbzjg4s9">Video 2: Antiderivatives, Part 2</a>
+  <li><a href="https://app.box.com/s/06cywq3tap5gynkk0m4nuenxszndj729">Video 3: Using Antiderivative Rules</a>
 <tr><td>The Fundamental Theorem of Calculus, Part 1 (Definite Integrals are Antiderivatives)</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1ydhqEer5BxDARpLbvWTwOdRCblkr6nOi/view?usp=sharing">Video 1: Computing Total Accumulation</a>
+  <li><a href="https://app.box.com/s/pe0vcxp0r4n3pfsndnlg4s6jhyyhc2ub">Video 1: Computing Total Accumulation</a>
 <tr><td>The Fundamental Theorem of Calculus, Part 2 (Constructing Antiderivatives)</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/1oBoiYQpojfh-TS4UhYs9autIWa5AcbsN/view?usp=sharing">Video 1: Accumulation Functions</a>
-  <li><a href="https://drive.google.com/file/d/1vXIt3djg3pxagfEsPexdCrcU-AJhPPGQ/view?usp=sharing">Video 2: Antiderivatives and Accumulation Functions</a>
+  <li><a href="https://app.box.com/s/bz2qhhcvo40qfiul052j8wfki877h3gu">Video 1: Accumulation Functions</a>
+  <li><a href="https://app.box.com/s/x8otoxh6wsg9lkl7cay2utywlg5e4shn">Video 2: Antiderivatives and Accumulation Functions</a>
 <tr><td>U-Substitution</td>
   <td><ul>
-  <li><a href="https://drive.google.com/file/d/128r84I3dHIt0gfVQS1eIG_DMIneA4xZJ/view?usp=sharing">Video 1: U-Substitution</a>
+  <li><a href="https://app.box.com/s/hun5owfh10a4jtdwz1djn7pdwy3n6jet">Video 1: U-Substitution</a>
 <tr><td>The S-I-R Model</td>
 	<td><ul>
-	<LI><a href="https://drive.google.com/file/d/15AczkQC2n0NqTjbz9o3jeDj6ZmCJ1Kox/view?usp=sharing">Video 1: Thinking About the Spread of Disease in a Population</a>
-	<LI><a href="https://drive.google.com/file/d/1xP19-J1sqkX9y8j_J17l673Ot6QsvBoI/view?usp=sharing">Video 2: Rate (Differential) Equations for the Spread of Disease</a>
-	<LI><a href="https://drive.google.com/file/d/1xsGhqcW2ldUA4Wu1csFg8fhUThDOGB1G/view?usp=sharing">Video 3: A System of Equations for the SIR Model</a>
+	<LI><a href="https://app.box.com/s/aazn22of31k9e5mlityi6pkxqr818jab">Video 1: Thinking About the Spread of Disease in a Population</a>
+	<LI><a href="https://app.box.com/s/mwwvqrxzpearqcat7b199z0jd48g4jui">Video 2: Rate (Differential) Equations for the Spread of Disease</a>
+	<LI><a href="https://app.box.com/s/yuxrsegiltjpjgf4bxnqsdoyz0dqy682">Video 3: A System of Equations for the SIR Model</a>
 <tr><td>Euler's Method</td>
 	<td><ul>
-	<LI><a href="https://drive.google.com/file/d/1Vj2JvSXnARpOVzCbM67X7ncslFzANgo2/view?usp=sharing">Introduction to Euler's Method</a>
-	<LI><a href="https://drive.google.com/file/d/1vPAAx0u_VFaY3MJj6v9h7drvsI8Cmdwy/view?usp=sharing">Using Euler's Method to Model the Spread of an Infection</a>	
-	<LI><a href="https://drive.google.com/file/d/1S97xOzLJB6ZYeFc6TV93JcsN7USdlKne/view?usp=sharing">Spreadsheet Techniques for Euler's Method</a>
-	<LI><a href="https://drive.google.com/file/d/1qEWWb5vc4jo2ZXjwEdY3_QJgq4JRyuKw/view?usp=sharing">Step Size and Constant Rate Assumptions in Euler's Method</a>
+	<LI><a href="https://app.box.com/s/cgj3wp71argozb0fnlhm9pn59j29poem">Introduction to Euler's Method</a>
+	<LI><a href="https://app.box.com/s/dx2w04zk31mqfirs21anl1cz5fk8e75z">Using Euler's Method to Model the Spread of an Infection</a>	
+	<LI><a href="https://app.box.com/s/aw6a9di4t66pota2skki4bug4250op47">Spreadsheet Techniques for Euler's Method</a>
+	<LI><a href="https://app.box.com/s/szgju6y96248c3140hug87d7mpguk1km">Step Size and Constant Rate Assumptions in Euler's Method</a>
 <tr><td>Introduction to (Linear) Differential Equations</td>
 	<td><ul>
-	<LI><a href="https://drive.google.com/file/d/1bHDXOz1iUNPwll_3bEN2waEI90IKAWDn/view?usp=sharing">Understanding Differential Equations</a>
-	<LI><a href="https://drive.google.com/file/d/1e65Vc4Aie_XuXyxAPBaK0El4pgtdrE1p/view?usp=sharing">Writing Differential Equations</a>
+	<LI><a href="https://app.box.com/s/9ixzq3dxhjs3y8su4c8x08ug55jidd9j">Understanding Differential Equations</a>
+	<LI><a href="https://app.box.com/s/ke474q7hp2do6yfslg89z92rdoi6zgkq">Writing Differential Equations</a>
 </table>
