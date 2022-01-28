@@ -7,13 +7,20 @@ permalink: "/publications/"
 
 The goals of the Calculus Video Project are to conduct design research to generate knowledge about how students engage with, make sense of, and learn from videos that address foundational calculus concepts. The project team is creating, refining, and disseminating materials for creating video lessons for post-secondary introductory calculus courses; collecting data to analyze the aspects of the videos that students attend to; determining how students make sense of the videos; identifying what students learn from watching the videos; and investigating the impact on student learning of various ways of structuring students’ video- watching experience.
 
+## Journal Publications
+- Weinberg, A., Martin, J., & Tallman, M. A. (Submitted). Attentive fidelity: An analytical construct for examining students' attentive behavior while viewing instructional videos. *Educational Studies in Mathematics*.
+- Weinberg, A., Corey, D. L., Tallman, M. A., Jones, S. R., & Martin, J. (Submitted). Observing intellectual need and its relationship with undergraduate students’ learning of calculus. *The International Journal of Research in Undergraduate Mathematics Education*.
+- Weinberg, A., Corey, D. L., Tallman, M. A., & Martin, J. (In Preparation). Student Learning from Instructional Calculus Videos.
+- Weinberg, A., Martin, J., & Tallman, M. A. (In Preparation). The Effects of Signals in Instructional Videos.
+
 ## Other Publications
 - Weinberg, A. & Martin, J. (2020). Creating and using videos for teaching math: Suggestions from the field. *MAA FOCUS*, 40(4), pp. 20-23.
 
 ## Conference Papers
-- Weinberg, A., Tallman, M., & Martin, J., (2021) The effects of instructors and student activity in learning from instructional calculus videos. In Olanoff, D., Johnson, K., & Spitzer, S. (Eds.). *Proceedings of the 43rd annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.* (pp. 1733-1737). Philadelphia, PA.
+- Corey, D. L., Weinberg, A., & Tallman, M. (2022). Observing Intellectual Need in Online Instructional Tasks. To appear in *Proceedings of the Twenty-Fourth Conference on Research in Undergraduate Mathematics Education*, Boston, MA: Boston University.
+- Weinberg, A., Tallman, M., & Martin, J. (2021). The effects of instructors and student activity in learning from instructional calculus videos. In Olanoff, D., Johnson, K., & Spitzer, S. (Eds.). *Proceedings of the 43rd annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.* (pp. 1733-1737). Philadelphia, PA.
   - [Paper](https://drive.google.com/file/d/1drhOH_kVEYASqt2KESe6p2FK-glrjQLD/view?usp=sharing)
-- Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019) Identifying students' attentive fidelity for calculus instructional videos. In Otten, S., Candela, A. G., de Araujo, Z., Haines, C., & Munter, C. (Eds.), *Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 955-960) St Louis, MO: University of Missouri.  
+- Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019). Identifying students' attentive fidelity for calculus instructional videos. In Otten, S., Candela, A. G., de Araujo, Z., Haines, C., & Munter, C. (Eds.), *Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 955-960) St Louis, MO: University of Missouri.  
   - [Paper](https://drive.google.com/open?id=1i0O-bBQ3Qj-OfgVb833NzRRhjlKM1SzM)
 - Waters, K., Martsching, W., Martin, J. (2019). What are you looking at? Shape thinking and eye-tracking. In Weinberg, Moore-Russo, Soto, & Wawro (Eds.), *Proceedings of the Twenty-Second Conference on Research in Undergraduate Mathematics Education* (pp. 646-653), Oklahoma City, OK: The University of Oklahoma and Oklahoma State University.
   - [Paper](https://drive.google.com/open?id=1DCmOUyoDn9MkpuIbaxTg8gWFwf7lJPL7)
@@ -28,8 +35,11 @@ The goals of the Calculus Video Project are to conduct design research to genera
 - Waters, K. & Martsching, W. (2018). Investigating Students’ Graphical Reasoning In Mathematics Using Eye-Tracking. *University of Central Arkansas Student Research Symposium*, Conway, AR: The University of Central Arkansas. April 20th.
 - Graham, K. & Gloster, W. (2018). Eye-Tracking Students Watching Calculus Videos. *University of Central Arkansas Student Research Symposium*, Conway, AR: The University of Central Arkansas. April 20th.
 - Graham, K. & Gloster, W. (2018). Eye-tracking and calculus videos. *STEM Posters at the Capitol*, Little Rock, AR. February, 14th.
+- Weinberg, A., Thomas, M., Martin, J., & Tallman, M. Investigating student learning and sense-making from instructional calculus videos. *The Joint Mathematics Meetings of the American Mathematical Society and the Mathematical Association of America*, San Diego, CA. January 12th.
 
 ## Invited Presentations
+- Intellectual Need for Learning Calculus Concepts, presented at the *University of Idaho Mathematics Education Seminar* in November, 2021
+- Student Learning from Instructional Calculus Videos, presented at the *University of Oklahoma RUME Seminar* in March, 2021.
 - Calculus Videos Project: Theoretical design principles for supporting students’ learning from instructional videos, presented at the *SIGMAA on RUME Virtual Invited Paper Session* for MathFest in July, 2020
 - Quantitative Reasoning and Intellectual Need: Design Principles for Instructional Materials, presented at the *MIT Electronic Seminar in Mathematics Education* in October, 2020
 - Quantitative Reasoning and Intellectual Need, presented at the *University of Northern Colorado Mathematics Education Seminar* in October, 2020
