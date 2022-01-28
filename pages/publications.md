@@ -30,8 +30,8 @@ The goals of the Calculus Video Project are to conduct design research to genera
 
 ## Posters
 - Investigating Student Learning and Sense-Making from Instructional Calculus Videos. (2018) Poster presented at the *21st Annual Conference of the Special Interest Group of the Mathematical Association of America on Research in Undergraduate Mathematics Education*.
-    - [Poster](https://drive.google.com/open?id=1cjlkJON6VT1Nw6PlQNGXfcHn0K83ATbI)
-    - [Paper](https://drive.google.com/open?id=1ISOaMys63rvRJyPVgAHRycCaQLJHGVWj)
+    - [Poster](RUME 2018 Poster)
+    - [Paper](Investigating Student Learning and Sense-Making from Instructional Calculus Videos)
 - Waters, K. & Martsching, W. (2018). Investigating Students’ Graphical Reasoning In Mathematics Using Eye-Tracking. *University of Central Arkansas Student Research Symposium*, Conway, AR: The University of Central Arkansas. April 20th.
 - Graham, K. & Gloster, W. (2018). Eye-Tracking Students Watching Calculus Videos. *University of Central Arkansas Student Research Symposium*, Conway, AR: The University of Central Arkansas. April 20th.
 - Graham, K. & Gloster, W. (2018). Eye-tracking and calculus videos. *STEM Posters at the Capitol*, Little Rock, AR. February, 14th.
