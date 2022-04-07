@@ -275,7 +275,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/IwZ9DVxf82s">Thinking About the Spread of Disease in a Population</a>
 			<LI><a href="https://youtu.be/zBjiy7-nHKs">Rate (Differential) Equations for the Spread of Disease</a>
 			<LI><a href="https://youtu.be/7r9MEaxFpM4">A System of Equations for the SIR Model</a>
-		</td>
+		
 
 
 
@@ -287,7 +287,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<LI><a href="https://youtu.be/mc4S0UIbIuY">Using Euler's Method to Model the Spread of an Infection</a>
 			<LI><a href="https://youtu.be/Q8AYgdXzIpg">Spreadsheet Techniques for Euler's Method</a>
 			<LI><a href="https://youtu.be/RnXBT_ztIz0">Step Size and Constant Rate Assumptions in Euler's Method</a>
-		</td>
+		
 
 				
 
@@ -297,4 +297,4 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 			<OL>
 			<LI><a href="https://youtu.be/ZHDChJlts-8">Understanding Differential Equations</a>
 			<LI><a href="https://youtu.be/E4sg0Unr2Lc">Writing Differential Equations</a>
-	</tr>
+	
