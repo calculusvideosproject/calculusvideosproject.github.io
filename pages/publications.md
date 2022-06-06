@@ -27,7 +27,7 @@ The goals of the Calculus Video Project are to conduct design research to genera
 - Martin, J., & Tallman, M. (2019). Documenting Student Engagement in Calculus Instruction Videos. Presented at the 81st Annual Meeting of the Oklahoma-Arkansas Section of the Mathematical Association of America.
 - Waters, K., Martsching, W., Martin, J. (2019). What are you looking at? Shape thinking and eye-tracking. In Weinberg, Moore-Russo, Soto, & Wawro (Eds.), *Proceedings of the Twenty-Second Conference on Research in Undergraduate Mathematics Education* (pp. 646-653), Oklahoma City, OK: The University of Oklahoma and Oklahoma State University.
   - [Paper](Waters et al - 2019 - What Are You Looking At- Shape Thinking and Eye-Tracking.pdf)
-- Weinberg, A., Thomas, M., Martin, J., & Tallman, M. (2018). Failing to rewind: Students' learning from instructional videos.  In Hodges, T. T., Roy, G. J., & Tyminski, A. M. (Eds.). *Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education** (pp. 1263-1266), Greenville, SC: University of South Carolina & Clemson University.
+- Weinberg, A., Thomas, M., Martin, J., & Tallman, M. (2018). Failing to rewind: Students' learning from instructional videos.  In Hodges, T. T., Roy, G. J., & Tyminski, A. M. (Eds.). *Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 1263-1266), Greenville, SC: University of South Carolina & Clemson University.
   - [Paper](Failing to Rewind PMENA Final Paper.pdf)
   
 
