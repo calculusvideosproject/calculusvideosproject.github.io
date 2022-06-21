@@ -18,8 +18,7 @@ The goals of the Calculus Video Project are to conduct design research to genera
   - [Paper](ARTICLE_creating videos_revised.pdf)
 
 ## Conference Papers and Presentations
-- Corey, D. L., Weinberg, A., & Tallman, M. (2022). Observing Intellectual Need in Online Instructional Tasks. To appear in *Proceedings of the Twenty-Fourth Conference on Research in Undergraduate Mathematics Education*, Boston, MA: Boston University.
-  - [Paper](RUME 2021 Stats Paper Unblinded.pdf)
+- Corey, D. L., Weinberg, A., & Tallman, M. (2022). Observing Intellectual Need in Online Instructional Tasks. In Karunakaran, S. S. & Higgins, A. (Eds.). *Proceedings of the 24th Annual Conference on Research in Undergraduate Mathematics Education* (pp. 135-142). Boston, MA: Boston University. 
 - Weinberg, A., Tallman, M., & Martin, J. (2021). The effects of instructors and student activity in learning from instructional calculus videos. In Olanoff, D., Johnson, K., & Spitzer, S. (Eds.). *Proceedings of the 43rd annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education.* (pp. 1733-1737). Philadelphia, PA.
   - [Paper](The Effects of Instructors and Student Activity in Learning from Instructional Calculus Videos.pdf)
 - Weinberg, A., Tornai, J., Thomas, M., Martin, J., Tallman, M., & Newman, K. (2019). Identifying students' attentive fidelity for calculus instructional videos. In Otten, S., Candela, A. G., de Araujo, Z., Haines, C., & Munter, C. (Eds.), *Proceedings of the forty-first annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education* (pp. 955-960) St Louis, MO: University of Missouri.  
