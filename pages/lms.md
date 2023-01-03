@@ -6,13 +6,14 @@ permalink: "/lms/"
 ---
 
 We have created modules that instructors can integrate into their LMS (learning management system). Each module include a set of pre-video questions, an intellectual need-provoking task and video, instructional videos, and post-video questions.
-These modules can be customized after importing into your LMS. You can download a file that includes all of the modules for Canvas, Blackboard, Moodle, or Sakai. Our modules are also available individually via Canvas Commons.
+These modules can be customized after importing into your LMS. You can download a file that includes all of the modules for Canvas, Blackboard, Moodle, or Sakai. Our modules are also available individually via <a href="https://lor.instructure.com/search?q=calcvids">Canvas Commons</a>.
 
 
 
 Course Packages (Supported)
 ---------
 - Canvas
+  - <a href=https://lor.instructure.com/search?q=calcvids">Canvas Commons modules</a>
   - <a href="calculus-videos-project-canvas.imscc">Canvas Package</a>
   - <a href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-a-Canvas-course-export-package/ta-p/795">Canvas Instructions</a>
 - Blackboard
