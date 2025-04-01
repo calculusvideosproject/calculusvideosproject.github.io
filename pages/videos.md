@@ -203,7 +203,7 @@ All of the videos can also be found on the [YouTube Calcvids channel](https://ww
 		<td>
 			<OL>
 			<LI><a href="https://youtu.be/TWZulr6XpFE">Student Problem Solving: Maximizing Fuel Economy</a>
-			<LI><a href="https://youtu.be/HTigyyB11Ns">Using Derivatives to Maximize Fuel Economy</a>
+			<LI><a href="https://youtu.be/0eGSQjGaY8w">Using Derivatives to Maximize Fuel Economy</a>
 			<LI><a href="https://youtu.be/gZFJ2vgRcZg">An Example of Optimization</a>
 
 
