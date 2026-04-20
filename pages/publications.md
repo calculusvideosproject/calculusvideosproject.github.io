@@ -8,10 +8,9 @@ permalink: "/publications/"
 The goals of the Calculus Video Project are to conduct design research to generate knowledge about how students engage with, make sense of, and learn from videos that address foundational calculus concepts. The project team is creating, refining, and disseminating materials for creating video lessons for post-secondary introductory calculus courses; collecting data to analyze the aspects of the videos that students attend to; determining how students make sense of the videos; identifying what students learn from watching the videos; and investigating the impact on student learning of various ways of structuring students’ video- watching experience.
 
 ## Journal Publications
-- Weinberg, A., Martin, J., & Tallman, M. A. (Submitted). Attentive fidelity: An analytical construct for examining students' attentive behavior while viewing instructional videos. *Educational Studies in Mathematics*.
-- Weinberg, A., Corey, D. L., Tallman, M. A., Jones, S. R., & Martin, J. (Submitted). Observing intellectual need and its relationship with undergraduate students’ learning of calculus. *The International Journal of Research in Undergraduate Mathematics Education*.
-- Weinberg, A., Corey, D. L., Tallman, M. A., & Martin, J. (In Preparation). Student Learning from Instructional Calculus Videos.
-- Weinberg, A., Martin, J., & Tallman, M. A. (In Preparation). The Effects of Signals in Instructional Videos.
+- Weinberg, A., Martin, J., & Tallman, M. (2026). Attentive fidelity: An analytical construct for examining students’ attentive behavior while viewing instructional videos. *Acta Psychologica, 264* doi:10.1016/j.actpsy.2026.106516
+- Weinberg, A., Corey, D., Tallman, M., Martin, J., & Bolton, M. R. (2025). Interactions between cognitive disequilibrium, interactivity with instructional videos, and learning. *Computers & Education, 238* doi:10.1016/j.compedu.2025.105392
+- Weinberg, A., Corey, D., Jones, S., Tallman, M., & Martin, J. (2024). Observing intellectual need and its relationship with undergraduate students’ learning of calculus. *International Journal of Research in Undergraduate Mathematics Education. 10* (1-31) doi:10.1007/s40753-022-00192-x
 
 ## Other Publications
 - Weinberg, A. & Martin, J. (2020). Creating and using videos for teaching math: Suggestions from the field. *MAA FOCUS*, 40(4), pp. 20-23.
